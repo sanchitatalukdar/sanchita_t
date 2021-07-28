@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Sanchita _, an interdisciplinary social scientist with more than 10 years of experience in public policy and sustanable development.
 
 
 <!-- Add link to the sections -->
@@ -30,9 +30,9 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### Asian Philanthropic Network
+Research Consultant<br>
+July 2 to Present: 1 year 10 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
 UNIT: BCG GAMMA
@@ -43,9 +43,9 @@ Working on various analytics based cases that facilitates clients for next-gener
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
-<!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+<!-- Add your details --> 
+##### The M.S. University of Baroda, India
+Ph.D. Economics, 2003-2008
 
 <!-- EDUCATION Section Ends -->
 
