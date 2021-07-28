@@ -10,7 +10,7 @@
 
 <!-- ABOUT Section Starts -->
 ### ABOUT
-<!-- Add link to your picture -->https://raw.githubusercontent.com/sanchitatalukdar/sanchita_t/main/images/One%20map%20_%20Palawan%20Beach%20walk.png
+<!-- Add link to your picture --
 
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
 
