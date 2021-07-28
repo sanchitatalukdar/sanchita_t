@@ -55,6 +55,7 @@ Ph.D. Economics, 2003-2008
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
+[BCG Rise Project ](#bcg-rise-project) <br>
 
 <!-- Add your details -->
 
@@ -72,14 +73,20 @@ Regression is a supervised learning technique which helps in finding the correla
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
+
+#### BCG Rise Projects
+I am part of BCG rise projects
+[For more details go to link](https://bcg
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
-##### Certifications
-Machine Learning by Columbia University
 
+#### Blog posts and Conferences
+
+##### Certifications
+RISE by Digital BCG
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
